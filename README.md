@@ -1,5 +1,5 @@
 
-# Bank-Marketing-Analysis
+# UCI Bank Marketing Analysis
 Data Science Case Study
 
 **Analyzing the Impact of Attributes on Term Deposit Subscriptions in Portuguese Banking Marketing Campaigns**
